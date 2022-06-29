@@ -1156,6 +1156,9 @@
 					"baseField": "publisher"
 				},
 				{
+					"field": "place"
+				},
+				{
 					"field": "date"
 				},
 				{
